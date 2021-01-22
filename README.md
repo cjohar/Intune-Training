@@ -20,7 +20,7 @@ For more information, see [Microsoft Endpoint Configuration Manager FAQ](https:/
 *If you are a Unified Support Customer then all the below Training and Labs are available for you. If you do not have Microsoft Unified Support - then you will not be able to access the Labs, but the learning path's are free*
 
 ## Core Learning Paths:
-| Resource | Length | Type | Summary | Importance |
+| Resource | Length | Type | Comments | Importance |
 |--|--|--|--------|--|
 | [M365 Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/microsoft-365-fundamentals) | length | Learning Path | Follow Learning Paths at Bottom of page and ask your CSAM/TAM/SDM about how Microsoft will help you certify| Core |
 | [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals) | length | Learning Path | Follow Learning Paths at Bottom of page and ask your CSAM/TAM/SDM about how Microsoft will help you certify| Core |
